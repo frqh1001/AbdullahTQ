@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @frqh1001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abdullah
+- 👀 I’m interested in By design and development
+- 💞️ I’m looking to collaborate on Diablo Digital Games Company
+- 📫 How to reach me Contact me via my personal social media page only
 
 <!---
-frqh1001/frqh1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Abdullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
